@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="app_bar_home_title">Заметки</string>
+    <string name="app_bar_bookmark_title">Закладки</string>
+    <string name="title_add_note">Название</string>
+    <string name="content_add_note">Текст</string>
+    <string name="unknow_error">Неизвестная ошибка</string>
+</resources>

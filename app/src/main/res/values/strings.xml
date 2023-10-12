@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="app_bar_home_title">Notes</string>
+    <string name="app_bar_bookmark_title">Bookmarks</string>
+    <string name="title_add_note">Name</string>
+    <string name="content_add_note">Text</string>
+    <string name="unknow_error">Unknown Error</string>
+</resources>
